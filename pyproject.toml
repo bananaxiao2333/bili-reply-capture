@@ -1,0 +1,23 @@
+[project]
+name = "bili-reply-capture"
+version = "0.1.0"
+description = "抓取 Bilibili 评论楼层并渲染为卡片长图，支持实时增量截图"
+readme = "README.md"
+requires-python = ">=3.14"
+license = { text = "MIT" }
+authors = [
+    { name = "小香蕉2333", email = "162992527+bananaxiao2333@users.noreply.github.com" },
+]
+keywords = ["bilibili", "comment", "screenshot", "image"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "pillow>=12.3.0",
+    "requests>=2.34.2",
+]
+
+[project.urls]
+Homepage = "https://github.com/bananaxiao/bili-reply-capture"
