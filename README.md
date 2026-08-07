@@ -20,7 +20,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/<your-name>/bili-reply-capture.git
+git clone https://github.com/bananaxiao2333/bili-reply-capture.git
 cd bili-reply-capture
 uv sync
 ```
@@ -88,7 +88,7 @@ out/
 
 ## 免责声明
 
-本项目仅用于个人学习与存档用途，请遵守 Bilibili 用户协议与相关法律法规，勿用于商业或恶意用途。接口字段可能随 B 站改版而变化，如遇失效请提 [Issue](https://github.com/<your-name>/bili-reply-capture/issues)。
+本项目仅用于个人学习与存档用途，请遵守 Bilibili 用户协议与相关法律法规，勿用于商业或恶意用途。接口字段可能随 B 站改版而变化，如遇失效请提 [Issue](https://github.com/bananaxiao2333/bili-reply-capture/issues)。
 
 ## License
 
